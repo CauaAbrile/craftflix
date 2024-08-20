@@ -1,0 +1,41 @@
+.body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "New Amsterdam", sans-serif;
+    
+}
+
+header {
+    border-bottom: solid 2px rgb(16, 16, 17);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(7, 185, 60);
+}
+
+section {
+    background: rgb(2, 124, 67);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+h1{
+    font-size: 40px;
+
+}
+
+p{
+    font-size: 20px;
+
+}
+
+img{
+    height: 200px;
+}
+
+.categoria-videos
